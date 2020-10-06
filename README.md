@@ -6,7 +6,7 @@
 ![Issues](https://img.shields.io/github/issues/flutter/flutter)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1424-orange.svg?style=flat-square)](#contributors-)
 ![Stars](https://img.shields.io/github/stars/flutter/flutter)
-![Stars](https://img.shields.io/github/forks/flutter/flutter)
+![Forks](https://img.shields.io/github/forks/flutter/flutter)
 [![Gitter Channel][]][Gitter badge]
 [![Twitter handle][]][Twitter badge]
 
